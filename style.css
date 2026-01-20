@@ -1,0 +1,64 @@
+body{
+    background-image:url("Background(1).png.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    text-align:center;
+}
+
+.cute{
+    background-color:white;
+    display:inline-block;
+}
+
+.cute img{
+    display:block;
+}
+
+
+.cuty{
+    text-shadow: 2px 2px 5px pink;
+    font-family: 'Comic Sans MS', cursive;
+    color:#bd0036;
+    font-weight:Bold;
+}
+
+.cutz{
+background-color:white ;
+text-shadow: 2px 2px 5px pink;
+    font-family: 'Comic Sans MS', cursive;
+    color:#bd0036;
+    font-weight:Bold;
+}
+   
+
+button{
+    color:#ffffff;
+    background-color:#ff0049 ;
+    text-shadow: 2px 2px 5px pink;
+    border:none;
+    border-radius:100px;
+    cursor:pointer;
+    height:50px;
+    width:100px;
+    font-weight:Bold;
+}
+
+.cutiepie{
+    border: 50px #ffffff;
+    border-radius: 5px;
+}
+
+.button style{
+    color:#ffffff;
+    background-color:#ff0049 ;
+    text-shadow: 2px 2px 5px pink;
+    border:none;
+    border-radius:100px;
+    cursor:pointer;
+    height:50px;
+    width:100px;
+    font-weight:Bold;
+}
